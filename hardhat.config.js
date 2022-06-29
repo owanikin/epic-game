@@ -22,6 +22,7 @@ module.exports = {
     rinkeby: {
       url: "https://eth-rinkeby.alchemyapi.io/v2/TBM_bLvxhsft0hR34_sBBIDVbWVCiCDA",
       accounts: [""],
+      // Contract deployed to: 0x6EEde6Be27629ab3AA79a31e9344240D8E44C445
     },
   },
 };
