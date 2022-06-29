@@ -49,7 +49,7 @@ contract MyEpicGame is ERC721 {
         uint[] memory characterAttackDmg
         // Below is the name and symbol of our token, ex Ethereum and ETH
     )
-        ERC721("Heroes", "HERO")
+        ERC721("Mortal Kombatants", "MKT")
      {
         // Loop through all the characters, and save their values in our contract so
         // We can use them later when we mint our NFTs.
